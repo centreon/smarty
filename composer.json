@@ -1,7 +1,7 @@
 {
-    "name": "smarty/smarty",
+    "name": "centreon/smarty",
     "type": "library",
-    "description": "Smarty - the compiling PHP template engine",
+    "description": "Centreon Smarty - the compiling PHP template engine fork by Centreon",
     "keywords": [
         "templating"
     ],
