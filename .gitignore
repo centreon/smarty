@@ -1,5 +1,11 @@
+.~*
+.DS_Store
 
+# backend development and project files
 .idea/
+.vscode/
+.scannerwork/
+.project/
 
 # Smarty
 lexer/*.php
@@ -10,4 +16,3 @@ utilies/*.php
 # Dev
 phpunit*
 vendor/*
-composer.lock
