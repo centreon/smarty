@@ -1,18 +1,36 @@
-# Smarty 3 template engine
+# centreon/centreon-smarty
+
+## Introduction
+This repository is a fork of the original Smarty repository.
+It is used to manage the version 3.1.48 of Smarty used in Centreon on version 22.10, 23.04, 23.10 to be
+compatible with PHP 8.1.
+Two branches have been created to manage the version 3.1.48 of Smarty :
+- 3.1.48.x (stable)
+- dev-3.1.48.x (develop)
+
+On each release, a tag is created on the branch 3.1.48.x to use the last version of Smarty in Centreon by composer.
+
+## Requirements
+
+centreon/centreon-smarty can be run with PHP 5.2 to PHP 8.2.
+
+# smarty-php/smarty
+
+## Smarty 3 template engine
 [smarty.net](https://www.smarty.net/) 
 
 [![Build Status](https://travis-ci.org/smarty-php/smarty.svg?branch=master)](https://travis-ci.org/smarty-php/smarty)
 
-## Documentation
+### Documentation
 
 For documentation see 
 [www.smarty.net/docs/en/](https://www.smarty.net/docs/en/) 
 
-## Requirements
+### Requirements
 
-Smarty can be run with PHP 5.2 to PHP 7.4.
+Smarty can be run with PHP 5.2 to PHP 7.2.
 
-## Distribution repository
+### Distribution repository
 
 > Smarty 3.1.28 introduces run time template inheritance
 
