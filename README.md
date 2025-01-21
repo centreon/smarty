@@ -10,6 +10,8 @@ Two branches have been created to manage the version 3.1.48 of Smarty :
 
 On each release, a tag is created on the branch 3.1.48.x to use the last version of Smarty in Centreon by composer.
 
+The tags will be in this following format : v.3.1.48+*-centreon where * is the minor of centreon.
+
 ## Requirements
 
 centreon/centreon-smarty can be run with PHP 5.2 to PHP 8.2.
