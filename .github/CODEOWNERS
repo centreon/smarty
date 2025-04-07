@@ -1,4 +1,4 @@
-*					@centreon/owners-php
+*                   @centreon/owners-php
 
 .gitleaks.toml      @centreon/owners-security
 .gitleaksignore     @centreon/owners-security
